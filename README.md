@@ -2,7 +2,7 @@
 
 **Prework** is a tip calculator application for iOS.
 
-Submitted by: **Hunter Xia**
+Submitted by: **Yu Xia**
 
 Time spent: **1** hours spent in total
 
